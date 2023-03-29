@@ -1,4 +1,4 @@
-# Crie páginas dinâmicas Robotron-2000
+# Crie páginas dinâmicas 
 
 Identificar os papéis de cada tecnologia da Web para construção de páginas
 Associar o JavaScript com HTML através do DOM
